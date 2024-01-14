@@ -1,0 +1,11 @@
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\bin\Release\net5.0\Play.Catalog.Contracts.deps.json
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\bin\Release\net5.0\Play.Catalog.Contracts.dll
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\bin\Release\net5.0\Play.Catalog.Contracts.pdb
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\Play.Catalog.Contracts.dll
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\refint\Play.Catalog.Contracts.dll
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\Play.Catalog.Contracts.pdb
+F:\PlayProj\Play.Catalog\src\play.catalog.contracts\obj\Release\net5.0\ref\Play.Catalog.Contracts.dll
